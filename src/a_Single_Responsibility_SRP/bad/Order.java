@@ -1,7 +1,7 @@
 package a_Single_Responsibility_SRP.bad;
 
 /*
-The Single Responsibility Principle means that a
+The Single Responsibility Principle (SRP) means that a
 class should have only one job to do. It should
 focus on doing one specific thing well.
 
